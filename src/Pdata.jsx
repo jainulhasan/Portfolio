@@ -21,13 +21,13 @@ const Pdata=[
     },
     {
         id:"3",
-        title:"Todo-App",
-        link:"https://github.com/jainulhasan/TodoApp",
-        imagelink:"images/todo.jpg",
-        desp:"A task management app built using ReactJS, which keeps track of our day-to-day tasks. In this webapp we can create our todo ticket with title and description and save it, the ticket is saved in local storage, we can edit or delete the task",
-        created:"7 july 2021",
-        tech:"ReactJS HTML CSS LocalStorage",
-        github:"https://github.com/jainulhasan/TodoApp"
+        title:"OpenBoard",
+        link:"https://github.com/jainulhasan/OpenBoard",
+        imagelink:"images/openboard.jpg",
+        desp:"A Real-Time Open board (clone) project made using JavaScript, with real-time drawing using socket.io and express.",
+        created:"15 Mar 2022",
+        tech:"Javascript, Expressjs, socket-io, HTML, CSS ",
+        github:"https://github.com/jainulhasan/OpenBoard"
     },
     {
         id:"4",
@@ -61,26 +61,6 @@ const Pdata=[
     },
     {
         id:"7",
-        title:"Voice Assistant",
-        link:"https://github.com/jainulhasan/python-voice-assistant",
-        imagelink:"images/python.jpg",
-        desp:"Simple voice assistant in python. It uses speech recognition library of python to listen and recognize the command given by user and act as per the matching function.",
-        created:"24 dec 2020",
-        tech:"Python, Libraries used -->  pyttsx3, datetime, pyaudio, speech_recognition, wikipedia, webbrowser, os, psutil ",
-        github:"https://github.com/jainulhasan/python-voice-assistant"
-    },
-    {
-        id:"8",
-        title:"Scorekeeper",
-        link:"https://github.com/jainulhasan/scorekeeper",
-        imagelink:"images/scorekeeper.jpg",
-        desp:"A realtime Score keeping web. You can keep track of scores of two teams in a match",
-        created:"20 jan 2021",
-        tech:"Javascript, Bulma, HTML",
-        github:"https://github.com/jainulhasan/scorekeeper"
-    },
-    {
-        id:"9",
         title:"CricInfo",
         link:"https://github.com/jainulhasan/cricinfo",
         imagelink:"images/ipl.jpg",
@@ -90,7 +70,7 @@ const Pdata=[
         github:"https://github.com/jainulhasan/cricinfo"
     },
     {
-        id:"10",
+        id:"8",
         title:"Github-scrapper",
         link:"https://github.com/jainulhasan/cricinfo",
         imagelink:"images/github-scarp.jpg",
@@ -100,17 +80,17 @@ const Pdata=[
         github:"https://github.com/jainulhasan/cricinfo"
     },
     {
-        id:"11",
-        title:"OpenBoard",
-        link:"https://github.com/jainulhasan/OpenBoard",
-        imagelink:"images/openboard.jpg",
-        desp:"A Real-Time Open board (clone) project made using JavaScript, with real-time drawing using socket.io and express.",
-        created:"15 Mar 2022",
-        tech:"Javascript, Expressjs, socket-io, HTML, CSS ",
-        github:"https://github.com/jainulhasan/OpenBoard"
+        id:"9",
+        title:"Todo-App",
+        link:"https://github.com/jainulhasan/TodoApp",
+        imagelink:"images/todo.jpg",
+        desp:"A task management app built using ReactJS, which keeps track of our day-to-day tasks. In this webapp we can create our todo ticket with title and description and save it, the ticket is saved in local storage, we can edit or delete the task",
+        created:"7 july 2021",
+        tech:"ReactJS HTML CSS LocalStorage",
+        github:"https://github.com/jainulhasan/TodoApp"
     },
     {
-        id:"12",
+        id:"10",
         title:"Zira Ticket Management",
         link:"https://github.com/jainulhasan/jira-ticket-management",
         imagelink:"images/zira.jpg",
@@ -118,6 +98,26 @@ const Pdata=[
         created:"20 Mar 2022",
         tech:"Javascript, HTML, CSS, Localstorage ",
         github:"https://github.com/jainulhasan/jira-ticket-management"
+    },
+    {
+        id:"11",
+        title:"Voice Assistant",
+        link:"https://github.com/jainulhasan/python-voice-assistant",
+        imagelink:"images/python.jpg",
+        desp:"Simple voice assistant in python. It uses speech recognition library of python to listen and recognize the command given by user and act as per the matching function.",
+        created:"24 dec 2020",
+        tech:"Python, Libraries used -->  pyttsx3, datetime, pyaudio, speech_recognition, wikipedia, webbrowser, os, psutil ",
+        github:"https://github.com/jainulhasan/python-voice-assistant"
+    },
+    {
+        id:"12",
+        title:"Scorekeeper",
+        link:"https://github.com/jainulhasan/scorekeeper",
+        imagelink:"images/scorekeeper.jpg",
+        desp:"A realtime Score keeping web. You can keep track of scores of two teams in a match",
+        created:"20 jan 2021",
+        tech:"Javascript, Bulma, HTML",
+        github:"https://github.com/jainulhasan/scorekeeper"
     }
 ];
 
